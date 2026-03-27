@@ -53,7 +53,8 @@ Rating_Missing / Partner_Rating_Missing – Flags for missing values
   
 ![Discount](images/discount_Analysis.png)
 - A significant proportion (~60%) of orders are driven by discounts, indicating strong dependency on promotional strategies for sales generation.
-  
+
+![Ratings](images/customer_rating_latedelivery.png)  
 - Late deliveries are associated with lower customer ratings, highlighting delivery timeliness as a key driver of customer satisfaction.
 
 **  Dashboard**
