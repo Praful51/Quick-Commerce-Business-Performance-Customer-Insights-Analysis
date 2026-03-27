@@ -48,7 +48,7 @@ Rating_Missing / Partner_Rating_Missing – Flags for missing values
 - Haridwar stands out as a high-risk location for late deliveries across multiple companies, suggesting localized operational challenges.
 
    Discount Impact
-![Discount](images/discount_analysis.png)
+![Discount](images/discount_Analysis.png)
 - A significant proportion (~60%) of orders are driven by discounts, indicating strong dependency on promotional strategies for sales generation.
   
 - Late deliveries are associated with lower customer ratings, highlighting delivery timeliness as a key driver of customer satisfaction.
