@@ -12,28 +12,45 @@ The dataset contains transactional data from a quick commerce platform, capturin
 **Key Features in the Dataset**
 
 Order_ID – Unique identifier for each order
+
 Company – Platform fulfilling the order (e.g., Blinkit, Swiggy Instamart, etc.)
+
 City – Location where the order was placed
+
 Customer_Age – Age of the customer
+
 Order_Value – Total value of the order
+
 Delivery_Time_Min – Time taken to deliver the order (in minutes)
+
 Distance_Km – Distance covered for delivery
+
 Items_Count – Number of items in the order
+
 Product_Category – Category of products ordered
+
 Payment_Method – Mode of payment used
+
 Customer_Rating – Rating given by the customer
+
 Delivery_Partner_Rating – Rating of delivery partner
+
 Discount_Applied – Indicates whether a discount was applied
+
 Age_Group – Derived feature grouping customers by age
+
 Is_Late – Derived flag indicating delayed deliveries
+
 Rating_Missing / Partner_Rating_Missing – Flags for missing values
 
  **Tools Used**
 
 - Python (Pandas, NumPy)
  Used for data cleaning, handling missing values, feature engineering, and exploratory data analysis.
+
 - SQL (MySQL)
  Used to perform business-driven analysis including company performance, customer segmentation, delivery efficiency, and discount impact.
+
 - Power BI
  Used to build an interactive dashboard with KPIs, slicers, and visualizations to present key insights.
 	
