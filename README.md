@@ -1,5 +1,5 @@
 
-# Quick-Commerce-Business-Performance-Customer-Insights-Analysis
+# Quick Commerce Business Analysis & Customer Insights
 
 **Project Overview**
 
