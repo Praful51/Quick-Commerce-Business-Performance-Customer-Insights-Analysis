@@ -34,7 +34,9 @@ Rating_Missing / Partner_Rating_Missing – Flags for missing values
 - Power BI
  Used to build an interactive dashboard with KPIs, slicers, and visualizations to present key insights.
 	
-    Key Insights from the Analysis
+
+** Key Insights from the Analysis**
+
     Company-wise Performance
 ![Company](images/company_performance.png)
 -   Leading platforms such as Swiggy Instamart, Blinkit, and Zepto consistently outperform others in terms of revenue, order volume, and average order value across multiple cities.
