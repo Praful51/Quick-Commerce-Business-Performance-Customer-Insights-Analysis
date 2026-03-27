@@ -41,6 +41,8 @@ Rating_Missing / Partner_Rating_Missing – Flags for missing values
 	
 ![Company](images/company_performance.png)
 -   Leading platforms such as Swiggy Instamart, Blinkit, and Zepto consistently outperform others in terms of revenue, order volume, and average order value across multiple cities.
+
+![Low Rated Company](images/Low_Rated_Company.png)
 - Companies like Dunzo and Jio Mart show consistently lower customer ratings, indicating potential issues in service quality and customer experience.
   
   Late Delivery Analysis
@@ -54,6 +56,8 @@ Rating_Missing / Partner_Rating_Missing – Flags for missing values
 ![Discount](images/discount_Analysis.png)
 - A significant proportion (~60%) of orders are driven by discounts, indicating strong dependency on promotional strategies for sales generation.
 
+   Delayed Delivery impact on customer satisfaction
+
 ![Ratings](images/customer_rating_latedelivery.png)  
 - Late deliveries are associated with lower customer ratings, highlighting delivery timeliness as a key driver of customer satisfaction.
 
@@ -61,7 +65,8 @@ Rating_Missing / Partner_Rating_Missing – Flags for missing values
 
 ![Dashboard](images/dashboard1.png)
 
-[Dashboard](images/dashboard2.png)
+
+[Dashboard2](images/dashboard2.png)
 
 
 
