@@ -90,6 +90,10 @@ Rating_Missing / Partner_Rating_Missing – Flags for missing values
 **Dashboard-2**
 ![Dashboard2](images/dashboard2.png)
 
+**📊Power BI Dashboard**
+
+📥 Download the interactive dashboard file:  
+👉 [Click here to access Power BI file](https://drive.google.com/file/d/1JQstTM04k2Ui_3XCmspaaepYz7MS4Tk-/view?usp=drive_link)
 
 
 **Business Recommendations**
